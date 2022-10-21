@@ -6,6 +6,8 @@
 
 🟣 For school reasons I have learned basic concepts of deep learning, machine learning, as well as some computer vision exercises.
 
+---
+
 ### You can reach me here:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
@@ -21,7 +23,9 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <br/>
 <br/>
+
 ---
+
 ### Machine Learning and Deep Learning Tools:
 
 <img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -34,7 +38,9 @@
 
 <br/>
 <br/>
+
 ---
+
 ### General tools:
 <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
