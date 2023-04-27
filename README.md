@@ -46,4 +46,4 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
