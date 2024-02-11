@@ -1,6 +1,6 @@
 ## Hi, I’m Gonzalo Guajardo 👋👋
 
-### I’m a passionate student of software and web development and I aspire to be a good developer, contributing skills with me learning capacity, adaptation, and decision.
+### Recently graduated Software Technology Engineer with solid problem-solving skills and focus on results. Practical experience in software development and project management, as well as demonstrated ability to work in a team. Passionate about innovation and continuous learning, seeking to contribute to challenging and dynamic projects.
 
 🟣 I’m currently working to improve my skills regarding web development by carrying out different projects to review previous knowledge.
 
