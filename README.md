@@ -18,43 +18,36 @@
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"> My Skills
 
 ### Intermediate / Advanced Knowledge
-<p align="center">
-  <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,c,arduino,bootstrap" />
-  </a>
-</p>
+</a>
 
 ### Basic Knowledge
-<p align="center">
-  <a href="https://skillicons.dev">
+
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,net,java,cs,md,tensorflow,sklearn,opencv,django" />
-  </a>
-</p>
+</a>
 
 ### Cloud & Hosting 
-<p align="center">
-  <a href="https://skillicons.dev">
+
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=netlify,firebase" />
-  </a>
-</p>
+</a>
 
 ### Database 
-<p align="center">
-  <a href="https://skillicons.dev">
+
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  </a>
-</p>
+</a>
 
 ### Version Control
-<p align="center">
-  <a href="https://skillicons.dev">
+
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git" />
-  </a>
-</p>
+</a>
 
 ### Preferred IDEs & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
+
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,discord" />
-  </a>
-</p>
+</a>
