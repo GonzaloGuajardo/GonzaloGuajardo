@@ -1,13 +1,13 @@
-## Hi, I’m Gonzalo Guajardo 👋👋
-
-### Recently graduated Software Technology Engineer with solid problem-solving skills and focus on results. Practical experience in software development and project management, as well as demonstrated ability to work in a team. Passionate about innovation and continuous learning, seeking to contribute to challenging and dynamic projects.
-
-🟣 I’m currently working to improve my skills regarding web development by carrying out different projects to review previous knowledge.
-
-🟣 For school reasons I have learned basic concepts of deep learning, machine learning, as well as some computer vision exercises.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=600&color=951DFF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I%E2%80%99m+Gonzalo+Guajardo)](https://git.io/typing-svg)
 
 ---
+## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> *About me*
 
+- Recently graduated Software Engineer with solid skills in problem-solving and teamwork.
+- Passionate about innovation and continuous learning in challenging and dynamic projects.
+- Committed to achieving tangible results and contributing to the success of the development team.
+
+---
 ### You can reach me here:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
@@ -15,35 +15,46 @@
 [linkedin]: https://www.linkedin.com/in/gonzaloguajardog/
 
 ---
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"> My Skills
 
-### Web development Tools:
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+### Intermediate / Advanced Knowledge
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,arduino,bootstrap" />
+  </a>
+</p>
 
-<br/>
-<br/>
+### Basic Knowledge
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,net,java,cs,md,tensorflow,sklearn,opencv,django" />
+  </a>
+</p>
 
----
+### Cloud & Hosting 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,firebase" />
+  </a>
+</p>
 
-### Machine Learning and Deep Learning Tools:
+### Database 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
+</p>
 
-<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-<img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
-<img align="left" src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
-<img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
-<img align="left" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"/>
+### Version Control
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git" />
+  </a>
+</p>
 
-<br/>
-<br/>
-
----
-
-### General tools:
-<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
-
+### Preferred IDEs & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,discord" />
+  </a>
+</p>
